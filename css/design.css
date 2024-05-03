@@ -41,8 +41,7 @@
 .name_eng {font-size: 1.1rem; color: #a1a1a1;}
 .job {
     font-size: 1.6rem; 
-    background-color: black;
-    color:yellow;
+    color:black;
     border-radius: 5px;
     /*-webkit-text-fill-color: transparent;
     -webkit-background-clip: text;*/
